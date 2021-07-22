@@ -7,6 +7,7 @@ emoji
 GitPython
 googletrans==3.1.0a0
 heroku3
+html_telegraph_poster
 imutils
 lottie
 lxml
